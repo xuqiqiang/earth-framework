@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundCornerImageView">
+        <attr name="radius" format="dimension" />
+        <attr name="left_top_radius" format="dimension" />
+        <attr name="right_top_radius" format="dimension" />
+        <attr name="right_bottom_radius" format="dimension" />
+        <attr name="left_bottom_radius" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="TouchOpacity">
+        <attr name="opacity" format="integer" />
+        <attr name="enabled" format="boolean" />
+        <attr name="security_time" format="integer" />
+    </declare-styleable>
+</resources>
